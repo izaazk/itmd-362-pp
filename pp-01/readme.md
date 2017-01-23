@@ -1,4 +1,4 @@
-## ITMD 362, Production Problem 1: Cloning and Committing to a Git Repository
+﻿## ITMD 362, Production Problem 1: Cloning and Committing to a Git Repository
 
 For this production problem, you will fork, clone, and commit and push changes to a
 remote GitHub repository. Follow the steps below exactly in order to receive full credit.
@@ -16,18 +16,18 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
    You’ll then be able to clone this way, using your actual GitHub username where this example says
    USERNAME:
 
-    $ git clone git@github.com:USERNAME/itmd-362-pp.git
+    $ git clone git@github.com:izaazk/itmd-362-pp.git
 
   If you choose HTTPS, you’ll be able to clone this way, using your actual GitHub username where
   this example says USERNAME:
 
-    $ git clone https://github.com/USERNAME/itmd-362-pp.git
+    $ git clone https://github.com/izaazk/itmd-362-pp.git
 
 3. You can now change directories into `itmd-362-pp` and then the `pp-01` directory, where you
    should now have this file, `readme.md` on your local computer. Open the file in your editor,
    and write below the URL to your fork of the GitHub repository, and the add and commit:
 
-   My Production Problems repository URL:
+   My Production Problems repository URL: https://github.com/izaazk/itmd-362-pp
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 
