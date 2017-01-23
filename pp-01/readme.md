@@ -39,6 +39,12 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
    Once you have done that, you can run the command `git remote -v` and it should list two remotes,
    one called `origin` and one called `instructor`.
 
+	instructor      https://github.com/profstolley/itmd-362-pp.git (fetch)
+	instructor      https://github.com/profstolley/itmd-362-pp.git (push)
+	origin  https://github.com/izaazk/itmd-362-pp.git (fetch)
+	origin  https://github.com/izaazk/itmd-362-pp.git (push)
+
+
    **To receive the remaining week’s Production Problems, you will change into your `itmd-362-pp`
    directory and run:**
 
