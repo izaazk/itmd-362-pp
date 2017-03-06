@@ -192,19 +192,59 @@ img, audio, video {
 */
 
 html {
+  font-family: 'Bodoni MT', serif;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  background-color: #00adb8;
+}
+
+h1, p {
+  padding-bottom: 1.375em;
+  padding-left: 1.375em;
 }
 
 label {
   display: block;
+  color:  #000;
+  font-family: 'PT Serif', serif;
 }
 
 /* ===== LAYOUT STYLES ====== */
+
+input[type="checkbox"] + label {
+  display: inline;
+}
+
+input {
+  background-color: #fff;
+  font-family: 'PT Serif', serif;
+}
+
+#input-email {
+  padding-bottom: 1.375em;
+  padding-left: 1.375em;
+}
+
+#input-age-verification {
+  padding-bottom: 1.375em;
+  padding-left: 1.375em;
+}
+
+#input-submit {
+  padding-top: 1.375em;
+  padding-bottom: 1.375em;
+  color: #f00;
+  text-align: center;
+}
 
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
 
+@font-face {
+  font-family: 'PT Serif';
+  font-weight: 400;
+  font-style: normal;
+}
