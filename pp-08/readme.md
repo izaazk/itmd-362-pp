@@ -1,4 +1,4 @@
-# Production Problem 08: Emotional Design Hunt
+﻿# Production Problem 08: Emotional Design Hunt
 
 ## The Problem
 
@@ -12,14 +12,15 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: Luxury level car with deep black paint indicating luxury with a black sport exhaust. This resembles high quality and a fast car.
 
-* Behavioral:
+* Behavioral: comfortable to drive with all the technology and luxury provided while having a sport mode for spirited driving. 
 
-* Reflective:
+* Reflective: Something i use everyday to get to places and love to keep clean and polished!
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. Visceral: Add/drop class should be easy and focused with the least amount of page hunting as possible from the user to get what they need done
+2. Reflective: There should be as least as possible amount of redirects and links so that the user knows where and how everytime!
+3. Behavioral: Simple elegenat design thats aesthically pleasing but being super simple so that mobile and desktop users can touch / click seamlessly
+and operate easily.
