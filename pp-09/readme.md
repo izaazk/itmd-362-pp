@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://drpete.co/pdf/checklist.pdf
+2. http://www.userfocus.co.uk/resources/taskchecklist.html
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Site load time must be reasoable for both mobile and desktop users. 
+2. Styles and colors are consistent
+3. Common tasks such as logout are seamless and easy
+4. Little amount of clicks to complete action
+5. All images / banners are relavent and unobstructive
+6. Caters to simple users
+7. Logical order of website 
+8. Minimal scrolling / superflous content
+9. buttons are relavent to task
+10. Call to action buttons are visible
